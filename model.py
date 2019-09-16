@@ -8,6 +8,10 @@ CNN:
 	we have create our own space of words using word2vec in order to give sens to a sentence
 RNNs:
 	using different types of RNN to see which one is the best
+
+This script include only the creation of a model.
+Scripts containing the training of an existing model, evaluation of sentences using a model,
+summary of all models created, embedding space creation, ... are not revealed.
 """
 
 from __future__ import print_function, division
